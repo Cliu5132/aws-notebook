@@ -5,3 +5,5 @@
     - - [Redshift](./各项服务简介/Redshift.md)
     - - [OpenSearch](./各项服务简介/OpenSearch.md)
     - - [EMR](./各项服务简介/EMR.md)
+    - - [QuickSight](./各项服务简介/QuickSight.md)
+    - - [Glue](./各项服务简介/Glue.md)
