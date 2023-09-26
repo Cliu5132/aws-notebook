@@ -4,3 +4,4 @@
     - - [Athena](./各项服务简介/Athena.md)
     - - [Redshift](./各项服务简介/Redshift.md)
     - - [OpenSearch](./各项服务简介/OpenSearch.md)
+    - - [EMR](./各项服务简介/EMR.md)
