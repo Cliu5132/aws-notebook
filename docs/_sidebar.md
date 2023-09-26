@@ -3,3 +3,4 @@
     - - [EC2](./各项服务简介/EC2.md)
     - - [Athena](./各项服务简介/Athena.md)
     - - [Redshift](./各项服务简介/Redshift.md)
+    - - [OpenSearch](./各项服务简介/OpenSearch.md)
